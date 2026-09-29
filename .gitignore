@@ -1,2 +1,8 @@
 # 忽略AGENTS.md
 AGENTS.md   
+
+# 忽略 imgc 的输出目录（压缩结果图片，不入版本库）
+imgc/
+
+# 忽略交互原型 demo（如需纳入版本管理，删除下面两行即可）
+demo/
